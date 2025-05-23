@@ -6,6 +6,5 @@
 
 🤝 I’m eager to collaborate on projects related to embedded software, AI-driven system integration, aerospace applications, and software verification aligned with industry standards such as DO-178C.
 
-📧 Reach me at: pablogar.velez@gmail.com | LinkedIn: [your LinkedIn URL]
-
+📧 Reach me at: pablogar.velez@gmail.com 
 🗣 Pronouns: He/Him
